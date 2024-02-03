@@ -1,0 +1,81 @@
+.top-image{
+    
+    position:relative;
+    top: 20px;
+    height:150px;
+    text-align:center;
+    border-radius:50%;
+    background-color:azure
+}
+
+.resume{
+  position: relative;
+  top: 15px;
+  right: 5px;
+  font-size: 12px;
+  text-align:center;
+}
+.portfolio{
+  position: relative;
+  top: 20px;
+  right: 5px;
+  font-size: 12px;
+  text-align:center;
+}
+
+img{
+    height:150px;
+    width:0cqmin 85%;
+    border-radius:10%;
+}
+.middle-container{
+    top:100px;
+    text-align:center
+}
+button{
+    text-align:center;
+    background-color:#86A789;
+    border-radius:30%;
+}
+
+
+h1{
+    color:#294B29;
+    font-family:cursive;
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+    font-family:cursive;
+    color:#294B29;
+}
+
+
+p{
+    text-align:center;
+    color:#294B29;
+    font-size:18;
+}
+
+a:link{
+    color:#4F6F52;
+    padding:10px;
+}
+
+a:button{
+    border-radius:15%;
+    font-size:24px;
+    height:50px;
+    width:100px;
+}
+.landscape{
+    border-radius:75%;
+    height:400px;
+    width:85%
+}
+.likes{
+    background-color: #D2E3C8;
+    height:600px;
+    text-align:center
+}
